@@ -1,0 +1,11 @@
+C:\Users\danie\source\repos\BasicAutoUpdater\BasicAutoUpdater\bin\Debug\BasicAutoUpdater.exe.config
+C:\Users\danie\source\repos\BasicAutoUpdater\BasicAutoUpdater\bin\Debug\BasicAutoUpdater.exe
+C:\Users\danie\source\repos\BasicAutoUpdater\BasicAutoUpdater\bin\Debug\BasicAutoUpdater.pdb
+C:\Users\danie\source\repos\BasicAutoUpdater\BasicAutoUpdater\obj\Debug\BasicAutoUpdater.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\BasicAutoUpdater\BasicAutoUpdater\obj\Debug\BasicAutoUpdater.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\source\repos\BasicAutoUpdater\BasicAutoUpdater\obj\Debug\BasicAutoUpdater.autoUpdateForm.resources
+C:\Users\danie\source\repos\BasicAutoUpdater\BasicAutoUpdater\obj\Debug\BasicAutoUpdater.Properties.Resources.resources
+C:\Users\danie\source\repos\BasicAutoUpdater\BasicAutoUpdater\obj\Debug\BasicAutoUpdater.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\BasicAutoUpdater\BasicAutoUpdater\obj\Debug\BasicAutoUpdater.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\BasicAutoUpdater\BasicAutoUpdater\obj\Debug\BasicAutoUpdater.exe
+C:\Users\danie\source\repos\BasicAutoUpdater\BasicAutoUpdater\obj\Debug\BasicAutoUpdater.pdb
